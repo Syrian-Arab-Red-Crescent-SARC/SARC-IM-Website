@@ -1,29 +1,76 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "MIS",
+    "description": "Web Applications, Database Structures, Data Management.",
     "image": {
-      "url": "images/features/noun_branding_1885335.svg",
+      "url": "images/features/terminal-box-line.svg",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Data Collection",
+    "description": "Narrative & Statistical reports and Design, develop report forms and templates.",
     "image": {
-      "url": "images/features/noun_The Process_1885341.svg",
+      "url": "images/features/folder-received-line.svg",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "GIS",
+    "description": "Annual Maps, Semi-Annual Maps, Operation Maps, Services Maps.",
     "image": {
-      "url": "images/features/noun_3d modeling_1885342.svg",
+      "url": "images/features/map-pin-line.svg",
       "width": 80,
       "height": 80
     }
-  }
+  },
+  {
+    "title": "Data Analysis",
+    "description": "Analysis Template, Data Analysis Capacity Building, Analytical Models, Situation Reports.",
+    "image": {
+      "url": "images/features/bar-chart-box-line.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Visualization",
+    "description": "SARC Semi and Annual Report and Presentation, Response Report, Reporting & Infographic stylebook.",
+    "image": {
+      "url": "images/features/file-chart-line.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Reporting",
+    "description": "
+    Progammes Reports, Inter-sectoral response reports, Building capacity for reporting unit, Develop Dashboards.",
+    "image": {
+      "url": "images/features/article-line.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Mobile Data collection",
+    "description": "
+    Design ODK, Data Collection Plan, Training Data Entry, Data Management.",
+    "image": {
+      "url": "images/features/smartphone-line.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Warehouse and Distribution",
+    "description": "Stock movement and warehouse info, Relief items distribution and point info.",
+    "image": {
+      "url": "images/features/database-line.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
 ]

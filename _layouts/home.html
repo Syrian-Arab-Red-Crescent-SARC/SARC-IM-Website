@@ -14,11 +14,7 @@ bodyClass: "page-home"
       </div>
       {% if page.intro_image %}
       <div class="col-12 col-md-5 col-lg-6 order-1 order-md-2 position-relative">
-<<<<<<< HEAD
        <img src="/images/illustrations/im-homepage-ill.svg" alt="test">
-=======
-        <img alt="intro image" src="/images/illustrations/intro.svg" /> 
->>>>>>> 276196e4d68457b879717836dea0dc887248227d
       </div>
       {% endif %}
     </div>
@@ -29,7 +25,7 @@ bodyClass: "page-home"
 <div class="strip strip-grey">
   <div class="container pt-6 pb-6 pt-md-10 pb-md-10">
     <div class="headline">
-      <h2>IM Products: </h2>
+      <h2>IM Services: </h2>
     </div>
       <div class="row justify-content-center">
         {% for feature in site.data.features %}
@@ -54,6 +50,8 @@ bodyClass: "page-home"
 
 <div class="strip">
   <div class="container pt-6 pb-6 pb-md-10">
+    <h2>last Products:</h2>
+      <br>
     <div class="row justify-content-start">
       {% for service in site.services %}
       <div class="col-12 col-md-4 mb-1">
@@ -70,10 +68,35 @@ bodyClass: "page-home"
     </div>
     <div class="row justify-content-center">
       <div class="col-auto">
-        <a class="button button-primary" href="{{ "services" | relative_url }}">View All Services</a>
+        <a class="button button-primary" href="{{ "services" | relative_url }}">View All Products</a>
       </div>
     </div>
   </div>
 </div>
 
+
+{% if site.data.partners %}
+
+<div class="partners">
+  <div class="container pt-6 pb-6 pb-md-10">
+    <h2>Our Partners:</h2>
+      <br>
+    <div class="row justify-content-start">
+      {% for partner in site.data.partners %}
+      <div class="col-12 col-md-4 mb-1">
+        <div class="service service-summary">
+          <div class="service-content">
+            <h2 class="service-title">
+              {{ partner.title }}
+            </h2>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+
+{% endif %}
 

@@ -1,0 +1,48 @@
+[   
+   {
+      "title": "IFRC",
+      "description": "Web Applications, Database Structures, Data Management.",
+      "image": {
+        "url": "images/features/terminal-box-line.svg",
+        "width": 80,
+        "height": 80
+      }
+    },
+    {
+      "title": "ICRI",
+      "description": "Narrative & Statistical reports and Design, develop report forms and templates.",
+      "image": {
+        "url": "images/features/folder-received-line.svg",
+        "width": 80,
+        "height": 80
+      }
+    },
+    {
+        "title": "ICRI",
+        "description": "Narrative & Statistical reports and Design, develop report forms and templates.",
+        "image": {
+          "url": "images/features/folder-received-line.svg",
+          "width": 80,
+          "height": 80
+        }
+      },
+      {
+        "title": "ICRI",
+        "description": "Narrative & Statistical reports and Design, develop report forms and templates.",
+        "image": {
+          "url": "images/features/folder-received-line.svg",
+          "width": 80,
+          "height": 80
+        }
+      },
+      
+      {
+        "title": "ICRI",
+        "description": "Narrative & Statistical reports and Design, develop report forms and templates.",
+        "image": {
+          "url": "images/features/folder-received-line.svg",
+          "width": 80,
+          "height": 80
+        }
+      },
+]

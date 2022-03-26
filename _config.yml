@@ -3,12 +3,12 @@ permalink: pretty
 title: 'Jekyll Serif'
 
 logo:
-  mobile: "images/logo/180px-SARC_Logo.png"
+  mobile: "images/logo/Untitled.png"
   mobile_height: "32px"
-  mobile_width: "32px"
-  desktop: "images/logo/180px-SARC_Logo.png"
+  mobile_width: "300px"
+  desktop: "images/logo/Untitled.png"
   desktop_height: "80px"
-  desktop_width: "80px"
+  desktop_width: "300px"
 
 collections:
   services:
